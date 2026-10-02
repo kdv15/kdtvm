@@ -21,14 +21,6 @@ https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv5tnb" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png" tvg-resolution="1080p" group-title="VTV",VTV5 Tây Nam Bộ
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
-https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-
-#EXTINF:-1 tvg-id="vtv5tn" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png" tvg-resolution="1080p" group-title="VTV",VTV5 Tây Nguyên
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-
 #EXTINF:-1 tvg-id="vtv6" tvg-name="VTV6" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png" tvg-resolution="1080p" group-title="VTV",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
@@ -54,23 +46,9 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=59
 
-#EXTINF:-1 tvg-id="qpvn" tvg-name="QPVN" tvg-logo="https://i.imgur.com/GQO7UNu.png" tvg-resolution="1080p" group-title="VTV",QPVN
-https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
-
 #EXTINF:-1 tvg-id="onkids" tvg-name="ON Kids" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" tvg-resolution="720p" group-title="Kids",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 
-#EXTINF:-1 tvg-id="onlife" tvg-name="ON Life" tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" tvg-resolution="720p" group-title="Lifestyle",ON Life
-https://freem3u.xyz/api/live/play.m3u8?vid=188
-
-#EXTINF:-1 tvg-id="onmovies" tvg-name="ON Movies" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" tvg-resolution="720p" group-title="Movies",ON Movies
-https://freem3u.xyz/api/live/play.m3u8?vid=181
-
-#EXTINF:-1 tvg-id="onviedrama" tvg-name="ON Vie Drama" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" tvg-resolution="720p" group-title="Entertainment",ON Vie Drama
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" tvg-resolution="1080p" group-title="VTV",Vietnam Today
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" tvg-resolution="720p" group-title="VTVcab",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
