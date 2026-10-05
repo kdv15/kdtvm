@@ -8,7 +8,7 @@ https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png" tvg-resolution="1080p" group-title="VTV",VTV2
 udp://@225.1.2.147:30120
-
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv3" tvg-name="VTV3" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png" tvg-resolution="1080p" group-title="VTV",VTV3
