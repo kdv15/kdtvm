@@ -104,3 +104,133 @@ udp://@225.1.2.50:30120
 #EXTINF:0,Event 53
 udp://@225.1.2.53:30120
 
+#EXTINF:0 group-title="The Thao",FPT Giới Thiệu Chương Trình
+udp://@225.1.1.2:30120
+#EXTINF:0 group-title="The Thao",FPT Giới Thiệu Chương Trình
+udp://@225.1.4.199:30120
+#EXTINF:0 group-title="The Thao",FPT Giới Thiệu Chương Trình
+udp://@225.1.4.200:30120
+#EXTINF:0 group-title="The Thao",Event 10
+udp://@225.1.1.10:30120
+#EXTINF:0 group-title="The Thao",Event 12
+udp://@225.1.1.12:30120
+#EXTINF:0 group-title="The Thao",Event 15
+udp://@225.1.1.15:30120
+#EXTINF:0 group-title="The Thao",Event 17
+udp://@225.1.1.17:30120
+#EXTINF:0 group-title="The Thao",Event 20
+udp://@225.1.1.20:30120
+#EXTINF:0 group-title="The Thao",Event 27
+udp://@225.1.1.27:30120
+#EXTINF:0 group-title="The Thao",Event 28
+udp://@225.1.1.28:30120
+#EXTINF:0 group-title="The Thao",Event 30
+udp://@225.1.1.30:30120
+#EXTINF:0 group-title="The Thao",Event 31
+udp://@225.1.1.31:30120
+#EXTINF:0 group-title="The Thao",Event 32
+udp://@225.1.1.32:30120
+#EXTINF:0 group-title="The Thao",Event 33
+udp://@225.1.1.33:30120
+#EXTINF:0 group-title="The Thao",Event 34
+udp://@225.1.1.34:30120
+#EXTINF:0 group-title="The Thao",Event 35
+udp://@225.1.1.35:30120
+#EXTINF:0 group-title="The Thao",Event 37
+udp://@225.1.1.37:30120
+#EXTINF:0 group-title="The Thao",Event 38
+udp://@225.1.1.38:30120
+#EXTINF:0 group-title="The Thao",Event 48
+udp://@225.1.1.48:30120
+#EXTINF:0 group-title="The Thao",Event 49
+udp://@225.1.1.49:30120
+#EXTINF:0 group-title="The Thao",Event 50
+udp://@225.1.1.50:30120
+#EXTINF:0 group-title="The Thao",Event 51
+udp://@225.1.1.51:30120
+#EXTINF:0 group-title="The Thao",Event 52
+udp://@225.1.1.52:30120
+#EXTINF:0 group-title="The Thao",Event 53
+udp://@225.1.1.53:30120
+#EXTINF:0 group-title="The Thao",Event 54
+udp://@225.1.1.54:30120
+#EXTINF:0 group-title="The Thao",Event 55
+udp://@225.1.1.55:30120
+#EXTINF:0 group-title="The Thao",Event 56
+udp://@225.1.1.56:30120
+#EXTINF:0 group-title="The Thao",Event 57
+udp://@225.1.1.57:30120
+#EXTINF:0 group-title="The Thao",Event 58
+udp://@225.1.1.58:30120
+#EXTINF:0 group-title="The Thao",Event 59
+udp://@225.1.1.59:30120
+#EXTINF:0 group-title="The Thao",Event 68
+udp://@225.1.1.68:30120
+#EXTINF:0 group-title="The Thao",Event 69
+udp://@225.1.1.69:30120
+#EXTINF:0 group-title="The Thao",Event 70
+udp://@225.1.1.70:30120
+#EXTINF:0 group-title="The Thao",Event 71
+udp://@225.1.1.71:30120
+#EXTINF:0 group-title="The Thao",Event 72
+udp://@225.1.1.72:30120
+#EXTINF:0 group-title="The Thao",Event 78
+udp://@225.1.1.78:30120
+#EXTINF:0 group-title="The Thao",Event 79
+udp://@225.1.1.79:30120
+#EXTINF:0 group-title="The Thao",Event 80
+udp://@225.1.1.80:30120
+#EXTINF:0 group-title="The Thao",Event 81
+udp://@225.1.1.81:30120
+#EXTINF:0 group-title="The Thao",Event 82
+udp://@225.1.1.82:30120
+#EXTINF:0 group-title="The Thao",Event 83
+udp://@225.1.1.83:30120
+#EXTINF:0 group-title="The Thao",Event 84
+udp://@225.1.1.84:30120
+#EXTINF:0 group-title="The Thao",Event 85
+udp://@225.1.1.85:30120
+#EXTINF:0 group-title="The Thao",Event 86
+udp://@225.1.1.86:30120
+#EXTINF:0 group-title="The Thao",Event 87
+udp://@225.1.1.87:30120
+#EXTINF:0 group-title="The Thao",Event 88
+udp://@225.1.1.88:30120
+#EXTINF:0 group-title="The Thao",Event 92
+udp://@225.1.1.92:30120
+#EXTINF:0 group-title="The Thao",Event 93
+udp://@225.1.1.93:30120
+#EXTINF:0 group-title="The Thao",Event 94
+udp://@225.1.1.94:30120
+#EXTINF:0 group-title="The Thao",Event 95
+udp://@225.1.1.95:30120
+#EXTINF:0 group-title="The Thao",Event 96
+udp://@225.1.1.96:30120
+#EXTINF:0 group-title="The Thao",Event 97
+udp://@225.1.1.97:30120
+#EXTINF:0 group-title="The Thao",Event 100
+udp://@225.1.1.100:30120
+#EXTINF:0 group-title="The Thao",Event 101
+udp://@225.1.1.101:30120
+#EXTINF:0 group-title="The Thao",Event 48 (H265 FHD)
+udp://@225.1.2.48:30120
+#EXTINF:0 group-title="The Thao",Event 50 (H265 FHD)
+udp://@225.1.2.50:30120
+#EXTINF:0 group-title="The Thao",Event 53 (H265 FHD)
+udp://@225.1.2.53:30120
+#EXTINF:0 group-title="The Thao",Event 57 (H265 FHD)
+udp://@225.1.2.57:30120
+#EXTINF:0 group-title="The Thao",Event 58 (H265 FHD)
+udp://@225.1.2.58:30120
+#EXTINF:0 group-title="The Thao",Event 82 (H265 FHD)	
+udp://@225.1.2.82:30120
+#EXTINF:0 group-title="The Thao",Event 84 (H265 FHD)
+udp://@225.1.2.84:30120
+#EXTINF:0 group-title="The Thao",Event 150 (H265 UHD)
+udp://@225.1.2.150:30120
+#EXTINF:0 group-title="The Thao",Event 152 (H265 UHD)
+udp://@225.1.2.152:30120
+#EXTINF:0 group-title="The Thao",Event 153 (H265 UHD)
+udp://@225.1.2.153:30120
+#EXTINF:0 group-title="The Thao",Event 203 (H265 UHD)
+udp://@225.1.2.203:30120
